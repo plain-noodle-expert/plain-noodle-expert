@@ -23,16 +23,16 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
-
-<!-- Frameworks / Tools -->
+-->
+<!-- Frameworks / Tools 
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
-
-<!-- Hardware / FPGA -->
+-->
+<!-- Hardware / FPGA 
 <p>
   <img src="https://img.shields.io/badge/VHDL-4B32C3?style=for-the-badge">
   <img src="https://img.shields.io/badge/FPGA-0F766E?style=for-the-badge">
